@@ -4,9 +4,9 @@ title: About me
 subtitle: Um... it's like Japanese chess¯\_(ツ)_/¯
 ---
 
-I am iegMann, the best oversleepers in the world.
+I am iegMann, one of the best oversleepers in the world.
 
-My waifu is Makise Kurisu; she's also my josyu, right?
+My waifu is Kurisu Makise; she's also my josyu, right?
 
 ### my history
 
