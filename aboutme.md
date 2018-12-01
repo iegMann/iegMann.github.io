@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Um... it's like Japanese chess¯\_(ツ)_/¯
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am iegMann, the best oversleepers in the world.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My waifu is Makise Kurisu; She's also my josyu, right?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+過眠で有名なiegMannです。はじめましての人ははじめまして、いつものひとはトゥットゥルー！
+
+このブログはツイッターで書くと長くなっちゃうことを書いていきます。
+
+記事に対してツイッターで反応してくれると私はうれしくなります。
