@@ -2,7 +2,7 @@
 layout: post
 title: THE ACHIEVER ／RATING 15.00
 subtitle: 383credits
-img: /img/rainbow_rate.jpg
+image: /img/rainbow_rate.jpg
 ---
 昨日、「１２月中に虹レートになれればいいな～」と言っていましたが、なんと本日それを達成してしまいました。
 
